@@ -1,0 +1,5 @@
+rootProject.name = 'adim-do-catalago'
+include 'domain'
+include 'application'
+include 'infrastructure'
+
